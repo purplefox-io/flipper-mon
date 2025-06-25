@@ -43,7 +43,7 @@ To compile and run Flipper Mon on your device, you need a working Flipper Zero d
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/flipper_mon.git](https://github.com/your-username/flipper_mon.git)
+    git clone https://github.com/purplefox-io/flipper-mon.git
     ```
 
 2.  **Navigate to the project directory:**
