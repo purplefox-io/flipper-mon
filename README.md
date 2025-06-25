@@ -16,9 +16,9 @@ Flipper Mon is a passion project to create a retro-style RPG adventure that can 
 
 ### Screenshots
 
-| Exploration View | Battle Scene |
-| :---: | :---: |
-| ![Exploration Screenshot]([httpss://i.imgur.com/your-exploration-image.png](https://www.purplefox.io/_next/image?url=%2Fimages%2Fflipper_mon_explore.png&w=3840&q=75)) | ![Battle Screenshot]([httpss://i.imgur.com/your-battle-image.png](https://www.purplefox.io/images/flipper_mon_battle_splash.png)) | ![Battle Scene Screenshot](https://www.purplefox.io/images/flipper_mon_battle_scene.png)
+| Exploration View | Battle Splash | Battle Scene | 
+| :---: | :---: | :---: |
+| ![Exploration Screenshot](https://www.purplefox.io/images/flipper_mon_explore.png) | ![Battle Screenshot](https://www.purplefox.io/images/flipper_mon_battle_splash.png) | ![Battle Scene Screenshot](https://www.purplefox.io/images/flipper_mon_battle_scene.png)
 
 ---
 
